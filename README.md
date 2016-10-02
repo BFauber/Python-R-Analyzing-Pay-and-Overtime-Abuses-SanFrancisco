@@ -1,5 +1,5 @@
 # Python-R-Analyzing-Pay-and-Overtime-Abuses-SanFrancisco
-Using Python and R to analyze the City of San Francisco (California, USA) employee base pay, overtime pay, and potential overtime pay abuse, from 2011-2015.
+An analysis using Python and R to explore the City of San Francisco (California, USA) payroll data from 2011-2015.
 
 <H3>Goals</H3>
 
@@ -18,7 +18,7 @@ Analyze the City of San Francisco (SF) employee base pay, overtime (OT) pay, and
 
 </OL>
 
-Python and R were used in this exercise.  The Python packages pandas, csv, re, and string were employed in the analysis.  The R package ggplot2 was employed in the analysis.
+Python and R were used in this study.  The Python packages pandas, csv, re, and string were employed in the analysis.
 <BR>
 <BR>
 
