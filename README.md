@@ -1,4 +1,4 @@
-# Python-R-Analyzing-Pay-and-Overtime-Abuses-SanFrancisco
+# Python-R-Analyzing-SanFrancisco-Payroll-Data
 An analysis using Python and R to explore the City of San Francisco (California, USA) payroll data from 2011-2015.
 
 <H3>Goals</H3>
@@ -6,7 +6,7 @@ An analysis using Python and R to explore the City of San Francisco (California,
 Analyze the City of San Francisco (SF) employee base pay, overtime (OT) pay, and potential OT abuse from 2011-2015.
 
 <OL>
-<LI> Collect and clean the City of San Francisco public employee compensation data.
+<LI> Collect and clean the publicly available City of San Francisco employee compensation data.
 
 <LI> Explore the changes in base pay and overtime pay from 2011-2015.
 
@@ -34,7 +34,7 @@ DETAIL THE APPROACH
 
 DETAIL THE RESULTS
 
-The methods, results, and summary are in the PDF file.  The PY and RDATA files for the complete analysis are also provided.
+The methods, results, and summary are in the PDF file.  The PY and R data files for the complete analysis are also provided.
 
 Benjamin P. Fauber
 
