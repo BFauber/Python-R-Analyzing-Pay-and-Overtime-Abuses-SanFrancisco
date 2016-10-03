@@ -24,7 +24,7 @@ Python and R were used in this study.  The Python packages pandas, csv, re, and 
 
 The payroll data for City of San Francisco, California (USA) employees from 2011-2015 is public and available from the <A HREF="https://npri.org/" TARGET="_blank">Nevada Policy Research Institute</A>.  The 188,037 x 11 (2.1 million data points) data set contains information such as the employee name, job title, base pay, overtime pay, other pay, benefits, and part- or full-time status.
 
-The raw data was organized and cleaned primarily with Python, with follow-up organization conducted in Excel.  The cleaned data was analyzed using Python and R, relying on the strengths of each language for a rich result.
+The raw data was organized and cleaned primarily with Python, with follow-up organization conducted in Excel.  The cleaned data was analyzed with Python and R, relying on the strengths of each language for a rich result.
 
 
 <H3>Results</H3>
@@ -55,6 +55,8 @@ Benjamin P. Fauber
 
 <H5>
 NOTES:
+<BR>
 * Only included employees in the analysis that earned more than the 1st quartile base pay, thus excluded employees that received very little base pay but a high % overtime pay, presumably due to back pay owed in 2015 for work performed in 2014.
+<BR>
 ** >8% exceeds the upper quartile of SF citywide % overtime pay in 2015.
 </H5>
