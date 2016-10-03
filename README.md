@@ -38,13 +38,13 @@ The job titles of all 2015 employees were analyzed for the most common keywords.
 Fire, Transit, Operator (closely-associated with Transit keyword), Sheriff, and Police jobs collected significantly more % OT pay (calculated as a percentage of base pay) than other jobs.  The average employee in 2015 collected 7.1% of their base pay in OT pay, but that mean value was skewed by the above job types as the median % OT pay in 2015 was 0%.
 
 <P align="center">
-<IMG SRC="JobTitleOTPercent2015.jpg" width=80% align="center"></IMG>
+<IMG SRC="JobTitleOTPercent2015.jpg" width=50% align="center"></IMG>
 </P>
 
 Further investigation of the data indicated substantial abuse of OT in Fire, Sheriff, Transit, and Police jobs.  In 2015, 37 employees* were paid more in OT than in base pay; 34 of those employees were in Fire, Sheriff, Transit, or Police jobs.
 
 <P align="center">
-<IMG SRC="HabitualOTAbuse.jpg" width=70% align="center"></IMG>
+<IMG SRC="HabitualOTAbuse.jpg" width=60% align="center"></IMG>
 </P>
 
 Recommend implementing additional safeguards to prevent OT abuse in these departments.  Also increase scrutiny of employees with a history of OT abuse (collecting >8% of base pay in OT pay**), especially those with year-over-year abuses.  It is unlikely that the OT abuse in Fire, Sheriff, Transit, and Police jobs is due to staffing shortages as there are other hourly essential jobs without this absurd use of OT (e.g. Nurse jobs).
@@ -53,8 +53,8 @@ The methods, results, and summary are in the PDF file.  The PY and R data files 
 
 Benjamin P. Fauber
 
-<H8>
+<H5>
 NOTES:
 * Only included employees in the analysis that earned more than the 1st quartile base pay, thus excluded employees that received very little base pay but a high % overtime pay, presumably due to back pay owed in 2015 for work performed in 2014.
 ** >8% exceeds the upper quartile of SF citywide % overtime pay in 2015.
-</H8>
+</H5>
