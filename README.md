@@ -22,7 +22,7 @@ Python and R were used in this study.  The Python packages pandas, csv, re, and 
 
 <H3>Approach</H3>
 
-The payroll data for City of San Francisco, California (USA) employees from 2011-2015 is public and available from the <A HREF="https://npri.org/" target="_blank">Nevada Policy Research Institute</A>.  The 188,037 x 11 (2.1 million data points) data set contains information such as the employee name, job title, base pay, overtime pay, other pay, benefits, and part- or full-time status.
+The payroll data for City of San Francisco, California (USA) employees from 2011-2015 is public and available from the <A HREF="https://npri.org/" TARGET="_blank">Nevada Policy Research Institute</A>.  The 188,037 x 11 (2.1 million data points) data set contains information such as the employee name, job title, base pay, overtime pay, other pay, benefits, and part- or full-time status.
 
 The raw data was organized and cleaned primarily with Python, with follow-up organization conducted in Excel.  The cleaned data was analyzed using Python and R, relying on the strengths of each language for a rich result.
 
