@@ -47,7 +47,7 @@ Further investigation of the data indicated substantial abuse of OT in Fire, She
 <IMG SRC="HabitualOTAbuse.jpg" width=60% align="center"></IMG>
 </P>
 
-Recommend implementing additional safeguards to prevent OT abuse in these departments.  Also increase scrutiny of employees with a history of OT abuse (collecting >8% of base pay in OT pay**), especially those with year-over-year abuses.  It is unlikely that the OT abuse in Fire, Sheriff, Transit, and Police jobs is due to staffing shortages as there are other hourly essential jobs without this absurd use of OT (e.g. Nurse jobs).
+Recommend implementing additional safeguards to prevent OT abuse in these departments.  Also increase scrutiny of employees with a history of OT abuse (collecting >8% of base pay in OT pay**), especially those with year-over-year abuses.  It is unlikely that the sizable OT abuse in Fire, Sheriff, Transit, and Police jobs is due to staffing shortages as there are other hourly essential jobs without this tremendous use of OT (e.g. Nurse jobs).
 
 The methods, results, and summary are in the PDF file.  The PY and R data files for the complete analysis are also provided.
 
