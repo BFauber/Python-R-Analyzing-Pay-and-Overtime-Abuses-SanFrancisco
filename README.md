@@ -6,21 +6,15 @@ Analyzed the City of San Francisco (California, USA) payroll data from 2011-2015
 </P>
 
 ##FINAL PRESENTATION
-See my <A HERF= "https://github.com/BFauber/Python-R-Analyzing-Payroll-Data/blob/master/Python_R_Analyzing_SF_Payroll_Data_BFauber_2016.pdf">final presentation deck</A> in PDF.
+See my <A HERF= "https://github.com/BFauber/Python-R-Analyzing-Payroll-Data/blob/master/Python_R_Analyzing_SF_Payroll_Data_BFauber_2016.pdf" target="_blank">final presentation deck</A> in PDF.
 
 ##PYTHON and R CODES
-Check out the python code for <A HREF="https://github.com/BFauber/Python-R-Analyzing-Payroll-Data/blob/master/DataCleaning.py">data cleaning</A> and <A HREF="https://github.com/BFauber/Python-R-Analyzing-Payroll-Data/blob/master/WordCount_JobTitles.py">identifying the job title keywords</A>, as well as the entire <A HREF="https://github.com/BFauber/Python-R-Analyzing-Payroll-Data/blob/master/Analyzing_Pay.Rdata">R code</A> for this project.
+Check out the python code for <A HREF="https://github.com/BFauber/Python-R-Analyzing-Payroll-Data/blob/master/DataCleaning.py" target="_blank">data cleaning</A> and <A HREF="https://github.com/BFauber/Python-R-Analyzing-Payroll-Data/blob/master/WordCount_JobTitles.py" target="_blank">identifying the job title keywords</A>, as well as the entire <A HREF="https://github.com/BFauber/Python-R-Analyzing-Payroll-Data/blob/master/Analyzing_Pay.Rdata" target="_blank">R code</A> for this project.
 
 ## PROJECT SUMMARY
-Analyzed the City of San Francisco employee base pay, overtime (OT) pay, and potential OT abuse from 2011-2015.
-
-The payroll data for City of San Francisco, California (USA) employees from 2011-2015 is public and available from the <A HREF="https://npri.org/" target="_blank">Nevada Policy Research Institute</A>.  The 188,037 x 11 (2.1 million data points) data set contains information such as the employee name, job title, base pay, overtime pay, other pay, benefits, and part- or full-time status.
-
-The raw data was organized and cleaned primarily with Python, with follow-up organization conducted in Excel.  The cleaned data was analyzed using Python and R, relying on the strengths of each language for a rich result.
+The payroll data for City of San Francisco, California (USA) employees from 2011-2015 is available from the <A HREF="https://npri.org/" target="_blank">Nevada Policy Research Institute</A>.  The 188,037 x 11 (2.1 million data points) data set was organized and cleaned primarily with Python.  The cleaned data was analyzed using Python and R, relying on the strengths of each language for a rich result.
 
 There were 39,387 total City of San Francisco (SF) employees in 2015.  The number of employees increased 9% from 2011-2015, while total base pay increased 18% and total OT pay increased 35% in the same period.
-
-The top three highest paid employees in 2015, by base pay, were William Coaker, Jr. (Chief investment officer, $507,832), John Martin (Dept head V, $326,764), and Harlan Kelly, Jr. (Executive contract employee, $320,480).  The Chief of Police, Mayor, and Fire Chief were in the top ten highest paid employee list.
 
 The job titles of all 2015 employees were analyzed for the most common keywords.  The top 20 keywords were identified and the payroll data associated with the top 10 were further profiled.  Fire, Police, and Engineering jobs collected over 30% more base pay than the average SF employee in 2015.  Fire jobs collected the highest average base pay, 57% more than the average SF employee in 2015.  Fire was the highest paid group by all metrics (mean, median, first and third quartile).
 
