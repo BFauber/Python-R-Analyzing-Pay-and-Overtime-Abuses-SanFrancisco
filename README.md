@@ -6,10 +6,10 @@ Analyzed the City of San Francisco (California, USA) payroll data from 2011-2015
 </P>
 
 ##FINAL PRESENTATION
-See my <A HREF="Python-R-Analyzing-Payroll-Data/Python_R_Analyzing_SF_Payroll_Data_BFauber_2016.pdf" target="_blank">final presentation deck</A> in PDF.
+See my <A HREF="Python_R_Analyzing_SF_Payroll_Data_BFauber_2016.pdf" target="_blank">final presentation deck</A> in PDF.
 
 ##PYTHON and R CODES
-Check out the python code for <A HREF="Python-R-Analyzing-Payroll-Data/blob/master/DataCleaning.py" target="_blank">data cleaning</A> and <A HREF="Python-R-Analyzing-Payroll-Data/blob/master/WordCount_JobTitles.py" target="_blank">identifying the job title keywords</A>, as well as the entire <A HREF="Python-R-Analyzing-Payroll-Data/blob/master/Analyzing_Pay.Rdata" target="_blank">R code</A> for this project.
+Check out the python code for <A HREF="DataCleaning.py" target="_blank">data cleaning</A> and <A HREF="WordCount_JobTitles.py" target="_blank">identifying the job title keywords</A>, as well as the entire <A HREF="Analyzing_Pay.Rdata" target="_blank">R code</A> for this project.
 
 ## PROJECT SUMMARY
 The payroll data for City of San Francisco, California (USA) employees from 2011-2015 is available from the <A HREF="https://npri.org/" target="_blank">Nevada Policy Research Institute</A>.  The 188,037 x 11 (2.1 million data points) data set was organized and cleaned primarily with Python.  The cleaned data was analyzed using Python and R, relying on the strengths of each language for a rich result.
