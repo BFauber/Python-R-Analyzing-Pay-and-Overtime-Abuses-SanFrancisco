@@ -6,7 +6,7 @@ Analyzed the City of San Francisco (California, USA) payroll data from 2011-2015
 </P>
 
 ##FINAL PRESENTATION
-See my <A HREF="Python_R_Analyzing_SF_Payroll_Data_BFauber_2016.pdf" target="_blank">final presentation deck</A> in PDF.
+See my <A HREF="Analyzing_SF_Payroll_Data_BFauber.pdf" target="_blank">final presentation deck</A> in PDF.
 
 ##PYTHON and R CODES
 Check out the python code for <A HREF="DataCleaning.py" target="_blank">data cleaning</A> and <A HREF="WordCount_JobTitles.py" target="_blank">identifying the job title keywords</A>, as well as the <A HREF="Analyzing_Pay.Rdata" target="_blank">R code</A> for this project.
