@@ -1,6 +1,6 @@
-###########################################################
+#!/usr/bin/env python
+
 # returns the word count for keywords words in a specific column within a csv file
-###########################################################
 
 import csv, re
 from collections import Counter
