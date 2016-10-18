@@ -2,9 +2,8 @@
 ###############################################################
 # Title: Analysis of City of San Francisco (California, USA) Employee 
 # Payroll Data, 2011-2015
-# Version: 0.1
 # Date: 01Oct2016
-# Authors@R: person("Ben", "Fauber",
+# Authors@R: person("Ben Fauber", "author",
 #                  role = c("aut", "cre"))
 # Description: Analyzes the City of San Francisco (SF) employee base pay, 
 # overtime (OT) pay, and potential OT abuse from 2011-2015.
