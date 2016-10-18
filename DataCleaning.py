@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 #converts csv file to lowercase and saves result as a unique output file
 
 import csv, string
