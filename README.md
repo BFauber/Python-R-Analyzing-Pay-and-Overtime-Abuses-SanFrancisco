@@ -1,4 +1,4 @@
-## PYTHON-R-ANALYZING-SAN-FRANCISCO-PAYROLL-DATA
+## ANALYZING-SAN-FRANCISCO-PAYROLL-DATA
 Analyzed the City of San Francisco (California, USA) payroll data from 2011-2015. Identified potential overtime abuse in 2015 and habitual abuse from 2011-2015.
 
 <P align="center">
